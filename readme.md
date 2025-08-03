@@ -33,3 +33,21 @@
 
 # sqlalchemy 文档
     https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html
+
+# github
+    GitHub 提供了一个备用 SSH 地址：ssh.github.com:443
+    git@github.com:fangqimingCSDN/fastapidemo.git (fetch)
+    git remote set-url origin ssh://git@ssh.github.com:443/fangqimingCSDN/fastapidemo.git
+
+    …or create a new repository on the command line
+    echo "# fastapidemo" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin git@github.com:fangqimingCSDN/fastapidemo.git
+    git push -u origin main
+    …or push an existing repository from the command line
+    git remote add origin git@github.com:fangqimingCSDN/fastapidemo.git
+    git branch -M main
+    git push -u origin main
