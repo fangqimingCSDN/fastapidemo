@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="10">
+            <item index="0" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="1" class="java.lang.String" itemvalue="grpcio-tools" />
+            <item index="2" class="java.lang.String" itemvalue="confluent_kafka" />
+            <item index="3" class="java.lang.String" itemvalue="onnxscript" />
+            <item index="4" class="java.lang.String" itemvalue="jupyter-core" />
+            <item index="5" class="java.lang.String" itemvalue="python-tsp" />
+            <item index="6" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="7" class="java.lang.String" itemvalue="jupyter-client" />
+            <item index="8" class="java.lang.String" itemvalue="lazy-loader" />
+            <item index="9" class="java.lang.String" itemvalue="importlib-metadata" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="demo_AgentCateoriesSDK.demo_test.Tank" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
